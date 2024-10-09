@@ -1,4 +1,4 @@
-package ej7_Contar_Cifras
+package ej07_Contar_Cifras
 import kotlin.math.abs
 /**
  * Determinar el número de cifras de un número entero.

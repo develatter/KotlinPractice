@@ -1,4 +1,4 @@
-package ej2_Raiz_Cuadrada
+package ej02_Raiz_Cuadrada
 import kotlin.math.sqrt
 /**
  * Calcular la raíz cuadrada de un número introducido por teclado.

@@ -1,4 +1,4 @@
-package ej5_ParteDecimal
+package ej05_ParteDecimal
 
 import kotlin.math.round
 

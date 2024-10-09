@@ -1,4 +1,4 @@
-package ej9_Pares
+package ej09_Pares
 
 /**
  * Ahora sí empiezan los bucles. Escribe un programa que muestre todos los números pares entre A y B,

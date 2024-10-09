@@ -1,4 +1,4 @@
-package ej3_Restar
+package ej03_Restar
 
 /**
  * Leídos dos números por teclado, llamémosles A y B, calcular y mostrar la resta del mayor menos el menor.

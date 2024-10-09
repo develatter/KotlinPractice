@@ -1,4 +1,4 @@
-package ej8_Mayor_Menor_Mediano
+package ej08_Mayor_Menor_Mediano
 
 /**
  * Dados tres números enteros, A, B, C, determinar cuál es el mayor, cuál el menor y cuál el mediano.

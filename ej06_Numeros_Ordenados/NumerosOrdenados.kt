@@ -1,4 +1,4 @@
-package ej6_Numeros_Ordenados
+package ej06_Numeros_Ordenados
 
 /**
  * Leer tres números por teclado, X, Y y Z, y decidir si están ordenados de menor a mayor.

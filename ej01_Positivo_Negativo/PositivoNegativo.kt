@@ -1,4 +1,4 @@
-package ej1_Positivo_Negativo
+package ej01_Positivo_Negativo
 
 /**
  * Leer un número por teclado mediante un método, y decir si es positivo o negativo con otro método.

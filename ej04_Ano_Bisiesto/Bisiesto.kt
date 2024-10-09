@@ -1,4 +1,4 @@
-package ej4_Ano_Bisiesto
+package ej04_Ano_Bisiesto
 
 /**
  * Determinar si un año es bisiesto o no. Los años bisiestos son múltiplos de 4; utilícese el operador módulo.
