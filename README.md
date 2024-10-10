@@ -53,3 +53,7 @@ A lo que íbamos: escribe un programa que muestre en la pantalla los N primeros 
 El número de la suerte o lucky number, por si hay alguien de Cuenca, es una tontuna de los numerólogos y otros charlatanes que se obtiene sumando todas las cifras de la fecha de nacimiento de un modo azaroso. Por ejemplo, como yo nací el 15 de octubre de 1974 (15-10-1974), se supone que mi número de la suerte es 15+10+1974 = 1999. Ahora sumo todas las cifras de 1999 así: 1+9+9+9 = 28. Como aún tengo dos dígitos, vuelvo a sumarlos. 2 + 8 = 10 => 1 + 0 = 1.
 Por lo tanto, 1 es mi número de la suerte. Si alguna vez me toca la lotería y llevo un número acabado en 1, os aviso.
 Escribe un programa que, dada una fecha de nacimiento, calcule el número de la suerte de esa persona.
+### 21. Primo
+Determinar si un número N introducido por teclado es o no primo. Recuerda que un número primo no es el hijo de mi tío, sino aquél que sólo es divisible por sí mismo y por la unidad.
+### 22. Eratóstenes
+Generalizar el algoritmo anterior para averiguar todos los números primos que existen entre 2 y 1000 (a este proceso se le conoce como criba de Eratóstenes, que no es que tenga mayor importancia, pero sirve para ponerle un título interesante a este ejercicio)
