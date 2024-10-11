@@ -1,4 +1,4 @@
-package ej22_Erastotenes
+package ej22_Eratostenes
 
 /**
  * Generalizar el algoritmo anterior para averiguar todos los números primos que existen entre 2 y 1000
