@@ -16,7 +16,7 @@ fun askNumber(): Int = sequence {
         if (n != null) yield(n)
         else println("Introduce un número válido:")
     }
-}.take(1).first()
+}.first()
 
 //Forma más convencional
 fun esPrimo(n: Int): Boolean {
