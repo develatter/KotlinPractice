@@ -1,4 +1,4 @@
-package ejemplos_clase.carrito
+package carrito_de_la_compra
 
 enum class Productos(
     val nombre: String,
