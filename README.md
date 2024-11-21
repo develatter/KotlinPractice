@@ -168,3 +168,9 @@ probado muchas promociones de alumnos antes que tú y no nos consta que nadie h
 Generar combinaciones al azar para la quiniela (14 valores dentro del conjunto 1, X o 2, por si hay alguien de otro
 planeta que no sepa cómo se rellena una quiniela). El resultado debe ser algo así, pero generado al azar:
 1-X-X-2-1-1-1-2-2-X-1-X-X-2
+
+### 26. Calculadora
+Diseñar un algoritmo que lea dos números, A y B, y un operador (mediante una variable de tipo carácter), y 
+calcule el resultado de operar A y B con esa operación. Por ejemplo, si A = 5 y B = 2, y operación = "+", el
+resultado debe ser 7. El algoritmo debe seguir pidiendo números y operaciones indefinidamente, hasta que el
+usuario decida terminar (utiliza un valor centinela para ello)
