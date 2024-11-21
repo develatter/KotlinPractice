@@ -17,9 +17,7 @@ sea positivo.
 ### 3. Restar
 
 Leídos dos números por teclado, llamémosles A y B, calcular y mostrar la resta del mayor menos el menor. Por ejemplo, si
-A = 8 y B = 3, el resultado debe ser A – B, es decir, 5. Pero si A = 4 y B = 7, el resultado debe ser B – A, es decir,
-
-3.
+A = 8 y B = 3, el resultado debe ser A – B, es decir, 5. Pero si A = 4 y B = 7, el resultado debe ser B – A, es decir, 3.
 
 ### 4. Año bisiesto
 
